@@ -53,6 +53,8 @@ RUN set -eux \
         gdal-bin \
         tesseract-ocr \
         tesseract-ocr-eng \
+        tesseract-ocr-chi-sim \
+        tesseract-ocr-chi-tra \
         tesseract-ocr-ita \
         tesseract-ocr-fra \
         tesseract-ocr-spa \
